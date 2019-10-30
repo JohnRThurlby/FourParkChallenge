@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Rules" android:id="@+id/show_rules"></item>
+    <item android:title="Contact" android:id="@+id/contact"></item>
+    <item android:title="Help" android:id="@+id/help"></item>
+    <item android:title="Logout" android:id="@+id/logout"></item>
+
+
+</menu>
