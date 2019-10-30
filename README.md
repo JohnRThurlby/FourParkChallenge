@@ -3,4 +3,4 @@ picture of a receipt showing a park purchase, and a picture taking a ride in the
 
 My first Android app. 
 
-Android app using Google maps, geolocation, camera functionlity, email, SMS, connection to EC2 server on AWS for backed PHP/MySQL functionality, and Image upload to same server. 
+Android app using Google maps, geolocation, camera functionlity, email, SMS, connection to EC2 server on AWS for backend PHP/MySQL functionality, and Image upload to same server. 
